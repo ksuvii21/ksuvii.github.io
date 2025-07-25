@@ -29,8 +29,7 @@ It reflects my design sense, development skills, and creativity as a web develop
 
 ## 📸 Preview
 
-![Portfolio Preview]<
-)
+![Portfolio Preview](https://github.com/ksuvii21/ksuvii.github.io/blob/main/Preview.png)
 
 ---
 
