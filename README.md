@@ -29,7 +29,7 @@ It reflects my design sense, development skills, and creativity as a web develop
 
 ## 📸 Preview
 
-![Portfolio Preview](<img width="1887" height="829" alt="Preview" src="https://github.com/user-attachments/assets/015b7636-deeb-4d8d-aab4-076a8f1f031d" />)
+![Portfolio Preview](https://github.com/ksuvii21/ksuvii.github.io/blob/main/Preview.png)
 
 ---
 
@@ -75,3 +75,4 @@ It reflects my design sense, development skills, and creativity as a web develop
 ---
 
 > Designed & Developed by **Kritika Gupta** 💖
+
