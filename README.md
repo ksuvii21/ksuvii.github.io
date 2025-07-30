@@ -17,7 +17,8 @@ The site includes sections like:
 - Hero/Intro
 - About Me
 - Skills
-- Projects with previews
+- Projects with previews (GitHub | Live Demo)
+- More about me
 - Resume download
 - Contact form
 
