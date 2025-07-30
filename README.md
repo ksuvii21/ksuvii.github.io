@@ -2,7 +2,7 @@
 
 Welcome to my personal web portfolio — built to showcase my skills, projects, and passion for web development and design.
 
-🔗 **Live at:** [https://ksuvii21.github.io](https://ksuvii21.github.io)
+🔗 **Live at:** [https://ksuvii21.github.io](https://ksuvii21.github.io/ksuvii.github.io/)
 
 ---
 
